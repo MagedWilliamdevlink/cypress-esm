@@ -13,7 +13,7 @@ export default defineConfig({
           viteConfig,
           {
             plugins: [
-              // CypressEsm(),
+              // CypressEsm(), // uncomment to see the issue
             ]
           }
         )
