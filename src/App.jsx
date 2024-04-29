@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
 import DynamicForm from "Components/DynamicForm";
-import taqymShamelData from "./FormSchema";
+import formSchema from "./FormSchema";
 import { Skeleton } from "antd";
 
-const TaqymShamel = () => {
+const App = () => {
   const [initialData, setInitialData] = useState(null);
 
   useEffect(() => {
@@ -21,11 +21,11 @@ const TaqymShamel = () => {
     <>
       <DynamicForm
         initialData={initialData}
-        schamaData={taqymShamelData}
+        schamaData={formSchema}
       />
     </>
   )
     :
     <Skeleton className="px-10" active />
 }
-export default TaqymShamel;
+export default App;
