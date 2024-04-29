@@ -1,0 +1,34 @@
+{
+  "name": "cypress-esm",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "cy:open": "cypress open",
+    "cy:open-e2e": "cypress open --e2e --browser chrome",
+    "cy:open-unit": "cypress open --component --browser chrome",
+    "cy:run-e2e": "cypress run --e2e",
+    "cy:run-unit": "cypress run --component",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "antd": "^5.13.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "yup": "^1.3.3"
+  },
+  "devDependencies": {
+    "@cypress/vite-plugin-cypress-esm": "^1.1.0",
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "cypress": "^13.8.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "vite": "^4.5.3"
+  }
+}

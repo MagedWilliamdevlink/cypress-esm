@@ -1,0 +1,889 @@
+[
+    {
+        "categoryKey": "kafala_evaluation_answers",
+        "items": [
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_childrensneedsresponsibilities_whatchildrenbasicneeds_education_healthcare",
+                "nameAr": "التعليم والرعاية الصحية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_childrensneedsresponsibilities_whatchildrenbasicneeds",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_childrensneedsresponsibilities_whatchildrenbasicneeds_food_shelter",
+                "nameAr": "الغذاء والمأوى",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_childrensneedsresponsibilities_whatchildrenbasicneeds",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_childrensneedsresponsibilities_whenfeelmissioncompletionwithkafalachild_providing_educationalopportunities",
+                "nameAr": "توفير الفرص التعليمية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_childrensneedsresponsibilities_whenfeelmissioncompletionwithkafalachild",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_childrensneedsresponsibilities_whenfeelmissioncompletionwithkafalachild_regularhealthcare",
+                "nameAr": "الرعاية الصحية الدورية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_childrensneedsresponsibilities_whenfeelmissioncompletionwithkafalachild",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_childtravelingabroad_whattravelpermitproblem_ensurecompliancewithlocal_internationallaws_regulations",
+                "nameAr": "ضمان الامتثال للقوانين واللوائح المحلية والدولية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_childtravelingabroad_whattravelpermitproblem",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_childtravelingabroad_whattravelpermitproblem_theneedtokeepthechildsafewhiletraveling",
+                "nameAr": "الحاجة للحفاظ على أمان الطفل أثناء السفر",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_childtravelingabroad_whattravelpermitproblem",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_deliversponsorshipinformation_whatmethodwillkafalachildinformedwith_organizeperiodicvisits_videocallstomaintainpersonalcontact",
+                "nameAr": "تنظيم زيارات دورية أو مكالمات فيديو للحفاظ على الاتصال الشخصي",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_deliversponsorshipinformation_whatmethodwillkafalachildinformedwith",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_deliversponsorshipinformation_whatmethodwillkafalachildinformedwith_sendregularupdates_messages_email",
+                "nameAr": "إرسال تحديثات منتظمة عبر الرسائل أو البريد الإلكتروني",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_deliversponsorshipinformation_whatmethodwillkafalachildinformedwith",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_deliversponsorshipinformation_whywontinformchildkafala_avoidworryingthechild_complicatingmattersforhim",
+                "nameAr": "تجنب إثارة قلق الطفل أو تعقيد الأمور له",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_deliversponsorshipinformation_whywontinformchildkafala",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_deliversponsorshipinformation_whywontinformchildkafala_maintainingthechildsindependence_privacy",
+                "nameAr": "الحفاظ على الاستقلالية والخصوصية للطفل",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_deliversponsorshipinformation_whywontinformchildkafala",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_economicsituation_childcareplane_care_support_for_children_and_the_elderly",
+                "nameAr": "دعم الرعاية للأطفال وكبار السن",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_economicsituation_childcareplane",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_economicsituation_childcareplane_paid_vacations",
+                "nameAr": "إجازات مدفوعة الأجر",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_economicsituation_childcareplane",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_economicsituation_otherproperties_economic_conditions",
+                "nameAr": "عقارات",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_economicsituation_otherproperties",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_economicsituation_otherproperties_mobile_property",
+                "nameAr": "ممتلكات متنقلة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_economicsituation_otherproperties",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_economicsituation_whenkafalaapprovedshouldattendworkshops_not_ready",
+                "nameAr": "غير مستعد",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_economicsituation_whenkafalaapprovedshouldattendworkshops",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_economicsituation_whenkafalaapprovedshouldattendworkshops_susceptible",
+                "nameAr": "مستعد",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_economicsituation_whenkafalaapprovedshouldattendworkshops",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_educationactivities_howsupportchildineducation_family_socialsupport",
+                "nameAr": "الدعم العائلي والاجتماعي",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_educationactivities_howsupportchildineducation",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_educationactivities_howsupportchildineducation_psychological_educationalsupport",
+                "nameAr": "الدعم النفسي والتربوي",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_educationactivities_howsupportchildineducation",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_educationactivities_whatactivitescanchildinvolved_arts_music",
+                "nameAr": "الفنون والموسيقى",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_educationactivities_whatactivitescanchildinvolved",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_educationactivities_whatactivitescanchildinvolved_sports_physicalactivity",
+                "nameAr": "الرياضة والنشاط البدني",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_educationactivities_whatactivitescanchildinvolved",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_educationactivities_whatschooltypechildenrolled_private_internationalschools",
+                "nameAr": "المدارس الخاصة والدولية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_educationactivities_whatschooltypechildenrolled",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_educationactivities_whatschooltypechildenrolled_public_schools",
+                "nameAr": "المدارس الحكومية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_educationactivities_whatschooltypechildenrolled",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_emotionalawarenessquestions_stresssigns_excessivestress_extremeanxiety",
+                "nameAr": "التوتر الزائد والقلق الشديد",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_emotionalawarenessquestions_stresssigns",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_emotionalawarenessquestions_stresssigns_insomnia_mentalfatigue",
+                "nameAr": "الأرق والتعب العقلي",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_emotionalawarenessquestions_stresssigns",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_emotionalawarenessquestions_stresssituation_family_conflicts",
+                "nameAr": "الصراعات العائلية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_emotionalawarenessquestions_stresssituation",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_emotionalawarenessquestions_stresssituation_financial_crises",
+                "nameAr": "الأزمات المالية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_emotionalawarenessquestions_stresssituation",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_emotionalawarenessquestions_whatmakeshimqualifiedtodealwithsituations_emotionalunderstanding_patience",
+                "nameAr": "التفهم العاطفي والصبر",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_emotionalawarenessquestions_whatmakeshimqualifiedtodealwithsituations",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_emotionalawarenessquestions_whatmakeshimqualifiedtodealwithsituations_knowledgeofpsychological_behavioraldisorders",
+                "nameAr": "المعرفة بالاضطرابات النفسية والسلوكية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_emotionalawarenessquestions_whatmakeshimqualifiedtodealwithsituations",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_emotionalawarenessquestions_whodealwithdisturbancesofchildren_biological_parents",
+                "nameAr": "الأباء والأمهات البيولوجيين",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_emotionalawarenessquestions_whodealwithdisturbancesofchildren",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_emotionalawarenessquestions_whodealwithdisturbancesofchildren_brotherssisters_relatives",
+                "nameAr": "الأخوة والأخوات والأقارب",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_emotionalawarenessquestions_whodealwithdisturbancesofchildren",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_extendedfamilyrelationships_expectedreservationsregardingsponsorship_concerning",
+                "nameAr": "القلق من تأثير الكفالة على العلاقات الأسرية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_extendedfamilyrelationships_expectedreservationsregardingsponsorship",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_extendedfamilyrelationships_expectedreservationsregardingsponsorship_doubts_properlydirectingsupport",
+                "nameAr": "الشكوك حول توجيه الدعم بشكل صحيح",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_extendedfamilyrelationships_expectedreservationsregardingsponsorship",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_extendedfamilyrelationships_howtodealwithchallanges_communicateeffectively_listentotheirneeds",
+                "nameAr": "التواصل الفعّال والاستماع لاحتياجاتهم",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_extendedfamilyrelationships_howtodealwithchallanges",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_extendedfamilyrelationships_howtodealwithchallanges_providingpractical_moralsupport",
+                "nameAr": "تقديم الدعم العملي والمعنوي",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_extendedfamilyrelationships_howtodealwithchallanges",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_extendedfamilyrelationships_relationshipwithinextendedfamily_kinship",
+                "nameAr": "الصلة القرابية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_extendedfamilyrelationships_relationshipwithinextendedfamily",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_extendedfamilyrelationships_relationshipwithinextendedfamily_social_culturalrelationship",
+                "nameAr": "العلاقة الاجتماعية والثقافية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_extendedfamilyrelationships_relationshipwithinextendedfamily",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whatcontentsofbedrooms_addcalm_relaxingcolors",
+                "nameAr": "إضافة ألوان هادئة ومريحة للبيئة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whatcontentsofbedrooms",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whatcontentsofbedrooms_comfortable_bed",
+                "nameAr": "سرير مريح ومناسب لاحتياجات الشخص",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whatcontentsofbedrooms",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whathomepreparationsforchildrenwithdisabilities_arrangefurniture_corridorstofacilitatemovement",
+                "nameAr": "ترتيب الأثاث والممرات لتسهيل الحركة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whathomepreparationsforchildrenwithdisabilities",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whathomepreparationsforchildrenwithdisabilities_usingassistivetechnologies_elevators_smartdevices",
+                "nameAr": "استخدام تقنيات مساعدة مثل المصاعد والأجهزة الذكية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whathomepreparationsforchildrenwithdisabilities",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whatsafetystatusofbathroom_install_emergencyalarms",
+                "nameAr": "تثبيت أجهزة الإنذار للحالات الطارئة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whatsafetystatusofbathroom",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whatsafetystatusofbathroom_providehandles_nonslipfloors",
+                "nameAr": "توفير مقابض وأرضيات غير قابلة للانزلاق",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whatsafetystatusofbathroom",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whatsafetystatusofkitchen_hygiene_storagewashdishes_storeperishablefoodsintherefrigerator",
+                "nameAr": "النظافة والتخزين غسل الأطباق وتخزين الأطعمة القابلة للفساد في الثلاجة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whatsafetystatusofkitchen",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whatsafetystatusofkitchen_turnoff_theelectricalappliancesbeforeleaving",
+                "nameAr": "وحدهم في المطبخ وإطفاء الأجهزة الكهربائية قبل مغادرته",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whatsafetystatusofkitchen",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whatsourceofdrinkingwater_mineral_water",
+                "nameAr": "مياه معدنية تحتوي على معادن مفيدة للصحة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whatsourceofdrinkingwater",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whatsourceofdrinkingwater_pure_tapwater",
+                "nameAr": "مياه الصنبور النقية تأتي من مصادر سطحية أو جوفية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whatsourceofdrinkingwater",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whattypeofbathroom_guest_additionalbathroom",
+                "nameAr": "دورة مياه ضيوف أو إضافية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whattypeofbathroom",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whattypeofbathroom_main_bathroom",
+                "nameAr": "دورة مياه رئيسية في المنزل",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whattypeofbathroom",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whattypesofdevicesavailableinhome_refrigerators",
+                "nameAr": "الثلاجات",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whattypesofdevicesavailableinhome",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whattypesofdevicesavailableinhome_washing_machines",
+                "nameAr": "الغسالات",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whattypesofdevicesavailableinhome",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whattypesofresidentialflooring_thewood",
+                "nameAr": "الخشب",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whattypesofresidentialflooring",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whattypesofresidentialflooring_tiles_durable_easytoclean",
+                "nameAr": "البلاط متين وسهل التنظيف",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whattypesofresidentialflooring",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whattypeswindowsinhouse_sliding_windows",
+                "nameAr": "النوافذ المنزلقة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whattypeswindowsinhouse",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_feedbackquestions_whattypeswindowsinhouse_vinyl_windows",
+                "nameAr": "نوافذ الفينيل",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_feedbackquestions_whattypeswindowsinhouse",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_describerelationshipwithinfamilyresidingathome_accreditation_communication",
+                "nameAr": "الاعتماد والتواصل",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_describerelationshipwithinfamilyresidingathome",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_describerelationshipwithinfamilyresidingathome_independence_boundaries",
+                "nameAr": "الاستقلالية والحدود",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_describerelationshipwithinfamilyresidingathome",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_expectedsupportfromimmediatefamily_emotional_psychologicalsupport",
+                "nameAr": "الدعم العاطفي والنفسي",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_expectedsupportfromimmediatefamily",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_expectedsupportfromimmediatefamily_financial_support",
+                "nameAr": "الدعم المالي",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_expectedsupportfromimmediatefamily",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_howandwhendiscussingsponsorshipwithimmediatefamily_aftersubmittingtheofficialapplicationforsponsorship",
+                "nameAr": "بعد تقديم الطلب الرسمي للكفالة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_howandwhendiscussingsponsorshipwithimmediatefamily",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_howandwhendiscussingsponsorshipwithimmediatefamily_duringthefirstmeeting",
+                "nameAr": "أثناء اللقاء الأول مع الأسرة المهتمة بالكفالة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_howandwhendiscussingsponsorshipwithimmediatefamily",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_howconvinceimmediatefamilyrequestingsponsorship_explainingthebenefitsofsponsorship",
+                "nameAr": "توضيح فوائد الكفالة للأسرة والطفل",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_howconvinceimmediatefamilyrequestingsponsorship",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_howconvinceimmediatefamilyrequestingsponsorship_providing_successfulexamples",
+                "nameAr": "تقديم أمثلة ناجحة عن الكفالة السابقة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_howconvinceimmediatefamilyrequestingsponsorship",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_immediatefamilyopinionregardingsponsorship_keepingchildreninthefamily",
+                "nameAr": "الاحتفاظ بالأبناء في الأسرة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_immediatefamilyopinionregardingsponsorship",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_immediatefamilyopinionregardingsponsorship_support_encouragement",
+                "nameAr": "الدعم والتشجيع",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_immediatefamilyopinionregardingsponsorship",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_inabilitysponsorchildwhatbehaviorwithsponsoredchild_contacttherelevantauthorities",
+                "nameAr": "الاتصال بالجهات المعنية للحصول على الدعم الفوري",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_inabilitysponsorchildwhatbehaviorwithsponsoredchild",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_inabilitysponsorchildwhatbehaviorwithsponsoredchild_providing_familywiththenecessaryinstructions",
+                "nameAr": "تقديم الإرشادات اللازمة للأسرة للتعامل مع الوضع",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_inabilitysponsorchildwhatbehaviorwithsponsoredchild",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_responsibleineventofemergency_clearlydefineresponsibilities_roles",
+                "nameAr": "تحديد المسؤوليات والأدوار بشكل واضح",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_responsibleineventofemergency",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_responsibleineventofemergency_coordinationwithgovernmentagencies_relevantorganizations",
+                "nameAr": "التنسيق مع الجهات الحكومية والمنظمات ذات الصلة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_responsibleineventofemergency",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_whatreservations_doubtsaboutthesustainabilityofthesupportprovided",
+                "nameAr": "الشكوك حول مدى استدامة الدعم المقدم",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_whatreservations",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationships_whatreservations_worryingaboutadditionalfinancialobligations",
+                "nameAr": "القلق بشأن التزامات مالية إضافية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationships_whatreservations",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationshipslivingplacetype_apartment_privatehouse",
+                "nameAr": "الشقة أو المنزل الخاص",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationshipslivingplacetype",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_immediatefamilymembersrelationshipslivingplacetype_sharingfamilyhome",
+                "nameAr": "المشاركة في منزل الأسرة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_immediatefamilymembersrelationshipslivingplacetype",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_kafalapurpose_howprotectsponsoredchildwhenreceivesinstructions_awareness_understanding",
+                "nameAr": "التوعية والتفهيم",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_kafalapurpose_howprotectsponsoredchildwhenreceivesinstructions",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_kafalapurpose_howprotectsponsoredchildwhenreceivesinstructions_respect_empathy",
+                "nameAr": "الاحترام والتعاطف",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_kafalapurpose_howprotectsponsoredchildwhenreceivesinstructions",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_kafalapurpose_purpose_desire_to_help_others",
+                "nameAr": "الرغبة في مساعدة الآخرين",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_kafalapurpose_purpose",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_kafalapurpose_purpose_religious",
+                "nameAr": "الإيمان الديني",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_kafalapurpose_purpose",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_kafalapurpose_whatsponsoredchildstatuswhennewchildborn_adoptive_motherhood",
+                "nameAr": "الأمومة التبني",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_kafalapurpose_whatsponsoredchildstatuswhennewchildborn",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_kafalapurpose_whatsponsoredchildstatuswhennewchildborn_biological_motherhood",
+                "nameAr": "الأمومة البيولوجية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_kafalapurpose_whatsponsoredchildstatuswhennewchildborn",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_kafalapurpose_whoproposedideaofsponsorship_charitable_organizations",
+                "nameAr": "المنظمات الخيرية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_kafalapurpose_whoproposedideaofsponsorship",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_kafalapurpose_whoproposedideaofsponsorship_parents",
+                "nameAr": "الأهل",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_kafalapurpose_whoproposedideaofsponsorship",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_kafalapurpose_withwhomdiscussedsponsorship_family_relatives",
+                "nameAr": "الأهل والأقارب",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_kafalapurpose_withwhomdiscussedsponsorship",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_kafalapurpose_withwhomdiscussedsponsorship_friends_neighbors",
+                "nameAr": "الأصدقاء والجيران",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_kafalapurpose_withwhomdiscussedsponsorship",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_managingexpectations_againstwishes_dialogue_searchingforacommonsolution",
+                "nameAr": "الحوار والبحث عن حلاً مشتركًا",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_managingexpectations_againstwishes",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_managingexpectations_againstwishes_mutualrespect_tolerance",
+                "nameAr": "الاحترام المتبادل والتسامح",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_managingexpectations_againstwishes",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_managingexpectations_childrefuseschool_encouragement_findingasolutiontogether",
+                "nameAr": "التشجيع وإيجاد حلاً معًا",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_managingexpectations_childrefuseschool",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_managingexpectations_childrefuseschool_talkhonestlytothechild_understandhisfears",
+                "nameAr": "التحدث بصدق مع الطفل وفهم مخاوفه",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_managingexpectations_childrefuseschool",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_managingexpectations_religiousmatters_emotional_spiritualguidance",
+                "nameAr": "الإرشاد العاطفي والروحي من قادة دينيين",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_managingexpectations_religiousmatters",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_managingexpectations_religiousmatters_financial_support",
+                "nameAr": "الدعم المالي للتعليم والتدريب الديني",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_managingexpectations_religiousmatters",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_managingexpectations_towhatextendchildparticipatechooseeducation_participate_schoolmeetings",
+                "nameAr": "المشاركة في اجتماعات المدرسة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_managingexpectations_towhatextendchildparticipatechooseeducation",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_managingexpectations_towhatextendchildparticipatechooseeducation_participationinchoosing_academicsubjects",
+                "nameAr": "المشاركة في اختيار المواد الدراسية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_managingexpectations_towhatextendchildparticipatechooseeducation",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_overallevaluation_residents_educationdropreason_economic_conditions",
+                "nameAr": "ظروف اقتصادية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_overallevaluation_residents_educationdropreason",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_overallevaluation_residents_educationdropreason_health_problems",
+                "nameAr": "مشاكل صحية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_overallevaluation_residents_educationdropreason",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_overallevaluation_residents_educationstatus_educated",
+                "nameAr": "متعلم",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_overallevaluation_residents_educationstatus",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_overallevaluation_residents_educationstatus_uneducated",
+                "nameAr": "غير متعلم",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_overallevaluation_residents_educationstatus",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_overallevaluation_residents_incomesource_freelancing",
+                "nameAr": "العمل الحر",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_overallevaluation_residents_incomesource",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_overallevaluation_residents_incomesource_official_work",
+                "nameAr": "العمل الرسمي",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_overallevaluation_residents_incomesource",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_overallevaluation_residents_relationship_biological",
+                "nameAr": "الأقارب البيولوجيين",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_overallevaluation_residents_relationship",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_overallevaluation_residents_relationship_nonbiological",
+                "nameAr": "الأقارب غير البيولوجيين",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_overallevaluation_residents_relationship",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_parentingskills_methods_dialogue_understanding",
+                "nameAr": "الحوار والتفاهم",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_parentingskills_methods",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_parentingskills_methods_positive_motivation",
+                "nameAr": "التحفيز الإيجابي وتعزيز السلوك الجيد",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_parentingskills_methods",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_reproductivehealth_femalemutilation_beliefin_potentialhealthbenefits",
+                "nameAr": "الاعتقاد بفوائد صحية محتملة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_reproductivehealth_femalemutilation",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_reproductivehealth_femalemutilation_commitmenttoculturaltraditions_customs",
+                "nameAr": "الالتزام بالتقاليد والعادات الثقافية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_reproductivehealth_femalemutilation",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_reproductivehealth_wherecircumcisionoccurred_recognizedhospitals_medicalcenters",
+                "nameAr": "المستشفيات والمراكز الطبية المعترف بها",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_reproductivehealth_wherecircumcisionoccurred",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_reproductivehealth_wherecircumcisionoccurred_sexual_reproductivehealthclinics",
+                "nameAr": "العيادات الخاصة بالصحة الجنسية والتناسلية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_reproductivehealth_wherecircumcisionoccurred",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_reproductivehealth_whyboysmarriageageappropriate_thedesiretostartafamily_achievestability",
+                "nameAr": "الرغبة في تكوين أسرة وتحقيق الاستقرار",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_reproductivehealth_whyboysmarriageageappropriate",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_reproductivehealth_whyboysmarriageageappropriate_therightpartnerforcooperation_mutualsupport",
+                "nameAr": "الشريك المناسب للتعاون والدعم المتبادل",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_reproductivehealth_whyboysmarriageageappropriate",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_reproductivehealth_whygirlsmarriageageappropriate_desireforemotional_socialstability",
+                "nameAr": "الرغبة في الاستقرار العاطفي والاجتماعي",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_reproductivehealth_whygirlsmarriageageappropriate",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_reproductivehealth_whygirlsmarriageageappropriate_starting_afamily",
+                "nameAr": "تأسيس أسرة وتكوين عائلة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_reproductivehealth_whygirlsmarriageageappropriate",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_spousesrelationship_howdealwithdivorceorseparation_mediation_settlement",
+                "nameAr": "الوساطة والتسوية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_spousesrelationship_howdealwithdivorceorseparation",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_spousesrelationship_howdealwithdivorceorseparation_respect_understanding",
+                "nameAr": "الاحترام والتفهيم",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_spousesrelationship_howdealwithdivorceorseparation",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_spousesrelationship_methods_solveproblems_throughdialogue",
+                "nameAr": "حل المشكلات بالحوار",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_spousesrelationship_methods",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_spousesrelationship_methods_understanding_respect",
+                "nameAr": "التفاهم والاحترام",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_spousesrelationship_methods",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_spousesrelationship_whatcommonhobbies_sports_entertainment",
+                "nameAr": "الرياضة والترفيه",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_spousesrelationship_whatcommonhobbies",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_spousesrelationship_whatcommonhobbies_travel_exploretheworld",
+                "nameAr": "السفر واستكشاف العالم",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_spousesrelationship_whatcommonhobbies",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_violenceandrelations_beatingreason_anger_stress",
+                "nameAr": "الغضب والتوتر",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_violenceandrelations_beatingreason",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_violenceandrelations_beatingreason_discipline_education",
+                "nameAr": "الانضباط والتربية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_violenceandrelations_beatingreason",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_violenceandrelations_injurytype_emotional_injuries",
+                "nameAr": "الإصابات العاطفية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_violenceandrelations_injurytype",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_violenceandrelations_injurytype_physical_injuries",
+                "nameAr": "الإصابات الجسدية",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_violenceandrelations_injurytype",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_violenceandrelations_methodofpunishing_dialogue_guidance",
+                "nameAr": "الحوار والتوجيه",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_violenceandrelations_methodofpunishing",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_violenceandrelations_methodofpunishing_minor_penalties",
+                "nameAr": "العقوبات البسيطة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_violenceandrelations_methodofpunishing",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_violenceandrelations_whattypesmistakesrequirebeatingpunishment_minor_errors",
+                "nameAr": "الأخطاء البسيطة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_violenceandrelations_whattypesmistakesrequirebeatingpunishment",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_violenceandrelations_whattypesmistakesrequirebeatingpunishment_serious_errors",
+                "nameAr": "الأخطاء الخطيرة",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_violenceandrelations_whattypesmistakesrequirebeatingpunishment",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_violenceandrelations_whypunishboysmore_behavior_correction",
+                "nameAr": "تصحيح السلوك",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_violenceandrelations_whypunishboysmore",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_violenceandrelations_whypunishboysmore_disobedience_rebellion",
+                "nameAr": "العصيان والتمرد",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_violenceandrelations_whypunishboysmore",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_violenceandrelations_whypunishgirlsmore_preservingvalues_traditions",
+                "nameAr": "الحفاظ على القيم والتقاليد",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_violenceandrelations_whypunishgirlsmore",
+                "integrationKey": null
+            },
+            {
+                "itemKey": "kafala_evaluation_answers_kafala_evaluation_questions_violenceandrelations_whypunishgirlsmore_unacceptable_behavior",
+                "nameAr": "السلوك غير المقبول",
+                "status": "ACTIVE",
+                "parentKey": "kafala_evaluation_questions_violenceandrelations_whypunishgirlsmore",
+                "integrationKey": null
+            }
+        ]
+    }
+]
